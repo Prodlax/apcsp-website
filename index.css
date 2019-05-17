@@ -2,8 +2,10 @@ body {
   background-color: PapayaWhip;
 }
 h1 {
-  color: blue;
+  color: DarkSlateGray;
+   text-align: Center;
 }
 p {
-  color: red;
+  color: Maroon;
+  text-align: Center;
 }

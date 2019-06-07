@@ -1,5 +1,6 @@
-
-<h1>hello</h1>
+<!DOCTYPE html>
+<html>
+<body>
 
 <?php
        // define variables and set to empty values
@@ -45,3 +46,5 @@
          echo $retc;
        }
     ?>
+</body>
+</html>
